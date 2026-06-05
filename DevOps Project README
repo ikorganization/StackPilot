@@ -1,0 +1,21 @@
+
+---
+
+# 7. DevOps Project README
+
+```md
+# Infrastructure Automation
+
+Infrastructure as Code project.
+
+## Tools
+
+- Terraform
+- Docker
+- Kubernetes
+
+## Deployment
+
+```bash
+terraform init
+terraform apply
