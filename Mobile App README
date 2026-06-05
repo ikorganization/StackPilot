@@ -1,0 +1,20 @@
+
+---
+
+# 8. Mobile App README
+
+```md
+# Mobile App
+
+Cross-platform mobile application.
+
+## Built With
+
+- Flutter
+- Firebase
+
+## Installation
+
+```bash
+flutter pub get
+flutter run
